@@ -16,6 +16,6 @@
 - Obs: Example;
 - Version: v.1.0.0
 
-- Last Update Date: 12/08/2024.
+- Last Update Date: 13/08/2024.
 
 ##
